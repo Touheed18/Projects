@@ -1,7 +1,5 @@
 # Projects
 
-## PROJECTS:
-
 ## Python Project: “Enterprise Data Analytics Pipeline - Employee Performance Analysis"
 
 -	Engineered a data analysis pipeline using Python and Pandas to analyze employee performance metrics across multiple datasets
